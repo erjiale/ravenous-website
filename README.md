@@ -1,5 +1,5 @@
 # ravenous-website
-Spring break 2019 3rd day bootcamp
+<h4>Spring break 2019 3rd day bootcamp</h4>
 
 ● Built a single-page food-querying web application using HTML, CSS, and JavaScript. <br/>
 ● Implemented a search bar that takes a food keyword and the user’s geolocation to search Yelp with React.js and Yelp API. 
